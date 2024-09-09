@@ -1,0 +1,21 @@
+public class ErrorHandlingDemo {
+    public static void main(String[] args) {
+    { 
+        double num=Math.random();
+     int money=10000,count=0;
+     boolean success=true;
+     while(success) {
+        if(num>=0.5) {
+            money +=1000;
+        }
+        else {
+            money -=1000;
+        }
+        if(money<=0)
+            success=false;
+        num=Math.random();
+        count++;
+     }
+     System.out.println("你输了,你一共猜了"+count+"次");}
+}
+    }
