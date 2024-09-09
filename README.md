@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fishchicken-bug
+- 👋 Hi, I’m 天狼
 - 👀 I’m interested in study evething about computer
 - 🌱 I’m currently learning Java
 
